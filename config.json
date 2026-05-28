@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailronnect",
+        "uuid": 11188055,
+        "checksum": "6r4w42"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
